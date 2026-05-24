@@ -1,9 +1,10 @@
 /*
  * PERSON 2 MODULE: Task Operations
  * Responsible for: Marking tasks as done and Deleting tasks
- * Author: [Friend's Name]
+ * Author: [Farhan]
  */
-
+// Developed by: Farhan Shaikh
+.
 #include <stdio.h>
 #include <string.h>
 #include "todo.h"
